@@ -14,7 +14,7 @@
 <img width="820" height="658" alt="C11" src="https://github.com/user-attachments/assets/61d92fff-5706-4ce8-add3-ad21061ca06f" />
 <img width="820" height="658" alt="C12" src="https://github.com/user-attachments/assets/84c6c057-e567-46fa-8701-fcab312c090a" />
 <img width="820" height="658" alt="C13" src="https://github.com/user-attachments/assets/2d7b72d4-3780-4d2d-827b-6b9ade51f634" />
-<h2>C#/.Net & Database Certifications</h2>
+<h2>C#/.NET & Database Certifications</h2>
 <img width="820" height="659" alt="C14" src="https://github.com/user-attachments/assets/a8c6d30e-ebf0-4e14-8d86-c6058642bdae" />
 <img width="820" height="659" alt="C15" src="https://github.com/user-attachments/assets/734a07e7-d329-4742-8208-a4ae264577ba" />
 <img width="820" height="658" alt="C16" src="https://github.com/user-attachments/assets/fb7d5cad-b6ca-4ab3-86fd-5c3e0c470f4e" />
